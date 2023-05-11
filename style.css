@@ -1,0 +1,46 @@
+.line
+{
+    height: 4px;
+    width: 2200px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+
+#camera , #result
+{
+  border: 2px dashed rgb(255, 255, 255);
+  width: 350px;
+  height: 300px; 
+}
+
+.gesture_name
+{
+    margin-top: 200px;
+    color: white;
+}
+
+.gesture
+{
+    margin-top: 290px;
+    margin-bottom: 200px;
+    color: white;
+}
+
+body
+{
+    background-color: rgb(28, 28, 28);
+}
+
+label
+{
+    color: white;
+}
+
+.title
+{
+    color: white;
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin-top: 10px;
+}
